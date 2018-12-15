@@ -8,4 +8,4 @@ Simple application for view network ping status
 Health is measured by ping time.
 
 ## Download
-Manual download latest version or clone the repo and build it yourself.
+Manual download [latest version](https://github.com/3pehrbehroozi/NetworkHealth/releases/latest) or clone the repo and build it yourself.
